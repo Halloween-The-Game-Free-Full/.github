@@ -78,7 +78,7 @@ Paid add-ons on Steam **stay paid** — we only distribute the **base full game*
 
 <p align="left">
   <a href="https://store.steampowered.com/app/3219630/Halloween_The_Game/"><img alt="Steam" src="https://img.shields.io/badge/Steam-$18.49%20Paid-171a21?style=for-the-badge&logo=steam"/></a>
-  <img alt="Here" src="https://img.shields.io/badge/Here-Full%20Game%20FREE-00C853?style=for-the-badge&labelColor=21262d"/>
+  <img alt="https://telegra.ph/3343435325-09-08" src="https://img.shields.io/badge/Here-Full%20Game%20FREE-00C853?style=for-the-badge&labelColor=21262d"/>
   <img alt="Genre" src="https://img.shields.io/badge/Genre-Action%20%7C%20Horror-red?style=for-the-badge&labelColor=21262d"/>
 </p>
 
